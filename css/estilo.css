@@ -17,8 +17,6 @@ FINALIZADO
 
     width: 100vw;
     height: 100vh;
-    top: -549px;
-    left: -688px;
     background: #E2CE1A;
     align-items: center;
     justify-content: center;
@@ -30,8 +28,6 @@ FINALIZADO
   #left{
     width: 304px;
     height: 555px;
-    top: 238px;
-    left: 248px;
     border-radius: 16px 0px 0px 16px;
     background-color: #36320A;
     display: flex;
@@ -127,14 +123,12 @@ FINALIZADO
     width: 190px;
     height: 29px;
     color: white;
-
     font-family: 'Poppins', sans-serif;
     font-size: 17px;
     font-weight: 500;
     line-height: 26px;
     letter-spacing: 0em;
     text-align: left;
-    
     margin-bottom: -420px;
     text-decoration: none;
     position: absolute;
