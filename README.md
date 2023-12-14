@@ -29,7 +29,7 @@ Você pode conferir o design da interface no [link do Figma](https://clone-skamb
 
 ## Preview
 
-![Skambo]()
+![foto-skambo](https://github.com/LucasMiguel2003/Clone-Skambo/assets/127208684/c32b6754-8a3c-4921-b87f-0793c188c931)
 
 
 ## Deploy
